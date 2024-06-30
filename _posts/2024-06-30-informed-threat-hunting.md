@@ -8,7 +8,7 @@ A means for any organisation to start meaningful threat hunting
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
-- [Identify data sources and logs](#identify-data-sources-and-logs)
+- [Identify data sources](#identify-data-sources)
 - [Identify threats](#identify-threats)
 - [Identify visibility](#identify-visibility)
 - [Identify an attack flow](#identify-an-attack-flow)
@@ -16,7 +16,7 @@ A means for any organisation to start meaningful threat hunting
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.
 
-## [Identify data sources and logs](#the-start)
+## [Identify data sources](#the-start)
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.
 
