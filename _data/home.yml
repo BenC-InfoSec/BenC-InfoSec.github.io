@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Informed Threat Hunting
-    url: project1
+    url: informed-threat-hunting
     desc: A guide to begining Threat Hunting
 
   - title: Project 2
