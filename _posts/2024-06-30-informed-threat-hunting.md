@@ -8,9 +8,9 @@ A means for any organisation to start meaningful threat hunting
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
-- [Identify data sources and logs](#Identify-data-sources-and-logs)
-- [Identify threats](#Identify-threats)
-- [Identify visibility](#Identify-visibility)
+- [Identify data sources and logs](#identify-data-sources-and-logs)
+- [Identify threats](#identify-threats)
+- [Identify visibility](#identify-visibility)
 - [Identify an attack flow](#attack-flow)
 
 ## Table of contents
