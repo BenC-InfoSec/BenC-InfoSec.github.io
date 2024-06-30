@@ -5,8 +5,8 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: MITRE ATT&CK
+    url: https://attack.mitre.org/
 
 project_entries:
   - title: Project 1
@@ -57,8 +57,11 @@ footer_entries:
   - title: Medium
     url: https://medium.com/@ben_infosec
 
-  - title: linkedin
+  - title: Linkedin
     url: https://www.linkedin.com/in/
+
+  - title: Credly
+    url: https://www.credly.com/users/
 
 misc_entries:
   - title: this is an example vertical list
