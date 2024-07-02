@@ -9,9 +9,9 @@ navbar_entries:
     url: https://attack.mitre.org/
 
 project_entries:
-  - title: Identifying threats - Informed defence
+  - title: Identifying Threats
     url: identifying-threats 
-    desc: Producing actionable intelligence
+    desc: Producing actionable intelligence for an informed defence
 
   - title: Informed Threat Hunting
     url: informed-threat-hunting
