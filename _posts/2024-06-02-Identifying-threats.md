@@ -9,7 +9,7 @@ A means for any organisation to start identifying relevant threats and an inform
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
-- [Understand the organisation](#understand-org)
+- [Understand the organisation](#understand-the-organisation)
 - [Research the industry](#research-industry)
 - [Leverage a framework](#using-mitre)
 - [Identify feeds](#identify-feeds)
@@ -18,7 +18,7 @@ A means for any organisation to start identifying relevant threats and an inform
 
 What follows is a series of steps to iteratively improve. See here for a worked example I made.
 
-## [Understand the organisation](#understand-org)
+## [Understand the organisation](#understand-the-organisation)
 
 
 
