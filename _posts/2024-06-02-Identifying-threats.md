@@ -5,7 +5,7 @@ author: Ben C
 tags: [Threat Intelligence, Process]
 ---
 
-A means for any organisation to start identifying relevant threats and an informed defence
+A means for an organisation of any size to begin identifying relevant threats and start on the road to building a threat-informed defence
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
@@ -16,28 +16,25 @@ A means for any organisation to start identifying relevant threats and an inform
 - [Review process](#review-process)
 
 
-What follows is a series of steps to iteratively improve. See here for a worked example I made.
+What follows is a series of steps to iteratively improve understanding.
+
+Firstly, it is necessary to recognise that organisations of any size will attract the attention of two distinct groups, script kiddies and criminals. A script kiddy is a low skilled, inidvidual or unorganised group motivated by the perceived challenge of hacking, gaining notoriety or general malevolence. Criminals however, seek financial gain and operate with varying levels of organisation and ability. As such, the initial understanding of the threat landscape is that of a hostile environment and the need for resources to be allocated to securing the organistion. 
+
+Plotting Tactics, Techniques and Procedures of low level threat actors on the MITRE ATT&CK Navigator gives the first layer of threat which our organisation should be reviewing defences against
+
+![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
+
+
 
 ## [Understand the organisation](#understand-the-organisation)
 
-Try to identify risk factors that can be used as a basis for researching threat actors. Some example questions are below. 
+Try to identify risk factors that can be used as a basis for researching threat actors. Examples include countries of operation and customer base e.g. perhaps threat actors could wish to target customer firms and therefore our organistion as part of a supply chain attack. While risk factors should be plausible, it is not necessary to attribute likelihood at this stage.
 
-#### Which industry sector does the organisation operate in?
-Threat researchers and intelligence feeds often attempt to group threat actors by the industries that they target. 
 
-#### Which countries does the company operate in? 
-Threat actor groups may be more active in some countries due to cultural ties or geo political issues.
-
-#### Are there any factors increasing the risk to the organisation?
-Can you think of a plausable scenario that may draw the focus of specific groups to your organisation? 
-
-## [Research the industry](#research-industry)
+## [Research historical exploitation of risk factors](#research-industry)
 
 Try to identify threat actors that have targetted the industry and how. At this stage, it is not a case of identifying specific actors with any certainty, instead you are beginning to form a starting point for refinement. As you research, try and identify the specific tactics used by those bad actors. Some example questions are below. 
 
-#### Which threat actors do organisations of any size face?
-In the hostile environment of the internet, two distinct groups represent a threat to all organisations; script kiddies and criminals.
-A script kiddy is a low skilled, inidvidual or unorganised group motivated by the perceived challenge of hacking, gaining notoriety or general malevolence. Criminals seek financial gain, and operate with varying levels of organisation and ability.
 
 #### Which companies in the same industry have been attacked, by whom and how?
 It can be difficult to identify specifics regrding previous attacks. Often there is limited infomration or victims are reluctant to share. Research broadly and include industry publications. Try to identify specific actors know to target the sector. It is likely that your research will lead you to MITRE ATT&CK...
