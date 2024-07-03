@@ -20,17 +20,30 @@ What follows is a series of steps to iteratively improve. See here for a worked 
 
 ## [Understand the organisation](#understand-the-organisation)
 
+Try to identify risk factors that can be used as a basis for researching threat actors. Some example questions are below. 
 
+#### Which industry sector does the organisation operate in?
+Threat researchers and intelligence feeds often attempt to group threat actors by the industries that they target. 
 
-### Sample heading 3
+#### Which countries does the company operate in? 
+Threat actor groups may be more active in some countries due to cultural ties or geo political issues.
+
+#### Are there any factors increasing the risk to the organisation?
+Can you think of a plausable scenario that may draw the focus of specific groups to your organisation? 
 
 ## [Research the industry](#research-industry)
 
-Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.
+Try to identify threat actors that have targetted the industry and how. At this stage, it is not a case of identifying specific actors with any certainty, instead you are beginning to form a starting point for refinement. As you research, try and identify the specific tactics used by those bad actors. Some example questions are below. 
+
+#### Which threat actors do organisations of any size face?
+In the hostile environment of the internet, two distinct groups represent a threat to all organisations; script kiddies and criminals.
+A script kiddy is a low skilled, inidvidual or unorganised group motivated by the perceived challenge of hacking, gaining notoriety or general malevolence. Criminals seek financial gain, and operate with varying levels of organisation and ability.
+
+#### Which companies in the same industry have been attacked, by whom and how?
+It can be difficult to identify specifics regrding previous attacks. Often there is limited infomration or victims are reluctant to share. Research broadly and include industry publications. Try to identify specific actors know to target the sector. It is likely that your research will lead you to MITRE ATT&CK...
 
 ## [Leverage a framework](#using-mitre)
 
-Proin quis velit et eros auctor laoreet. Aenean eget nibh odio. Suspendisse mollis enim pretium, fermentum urna vitae, egestas purus. Donec convallis tincidunt purus, scelerisque fermentum eros sagittis vel. Aliquam ac aliquet risus, tempus iaculis est. Fusce molestie mauris non interdum hendrerit. Curabitur ullamcorper, eros vitae interdum volutpat, lacus magna lacinia turpis, at accumsan dui tortor vel lectus. Aenean risus massa, semper non lectus rutrum, facilisis imperdiet mi. Praesent sed quam quis purus auctor ornare et sed augue. Vestibulum non quam quis ligula luctus placerat sed sit amet erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce auctor, sem eu volutpat dignissim, turpis nibh malesuada arcu, in consequat elit mauris quis sem. Nam tristique sit amet enim vel accumsan. Sed id nibh commodo, dictum sem id, semper quam.
 
 ## [Identify feeds](#identify-feeds)
 
