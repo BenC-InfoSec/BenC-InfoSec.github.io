@@ -22,7 +22,7 @@ Firstly, it is necessary to recognise that organisations of any size will attrac
 
 Plotting Tactics, Techniques and Procedures of low level threat actors on the MITRE ATT&CK Navigator gives the first layer of threat which our organisation should be reviewing defences against
 
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
+![theme logo](Script_kiddies_Sub.svg)
 
 
 
