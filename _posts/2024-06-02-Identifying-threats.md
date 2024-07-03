@@ -9,7 +9,7 @@ A means for an organisation of any size to begin identifying relevant threats an
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
-- [Understand the organisation](#understand-the-organisation)
+- [Understand the low level threat](#understand-the-low-level-threat)
 - [Research the industry](#research-industry)
 - [Leverage a framework](#using-mitre)
 - [Identify feeds](#identify-feeds)
@@ -18,7 +18,9 @@ A means for an organisation of any size to begin identifying relevant threats an
 
 What follows is a series of steps to iteratively improve understanding.
 
-Firstly, it is necessary to recognise that organisations of any size will attract the attention of two distinct groups, script kiddies and criminals. A script kiddy is a low skilled, inidvidual or unorganised group motivated by the perceived challenge of hacking, gaining notoriety or general malevolence. Criminals however, seek financial gain and operate with varying levels of organisation and ability. As such, the initial understanding of the threat landscape is that of a hostile environment and the need for resources to be allocated to securing the organistion.
+## [Understand the low level threat](#understand-the-low-level-threat)
+
+Firstly, it is necessary to recognise that organisations of any size will attract the attention of two distinct groups, script kiddies and criminals. A script kiddy is a low skilled, inidvidual or unorganised group motivated by the perceived challenge of hacking, gaining notoriety or general malevolence. Criminals however, seek financial gain and operate with varying levels of organisation and ability. As such, the initial understanding of the threat landscape is that of a hostile environment and the need for resources to be allocated to secure the organistion.
 
 Plotting some well known Tactics, Techniques and Procedures of low level threat actors on the MITRE ATT&CK Navigator gives the first layer of threat which our organisation should be reviewing defences against. 
 
