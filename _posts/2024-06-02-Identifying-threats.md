@@ -20,26 +20,32 @@ What follows is a series of steps to iteratively improve understanding.
 
 ## [Understand the low level threat](#understand-the-low-level-threat)
 
-Firstly, it is necessary to recognise that organisations of any size will attract the attention of two distinct groups, script kiddies and criminals. A script kiddy is a low skilled, inidvidual or unorganised group motivated by the perceived challenge of hacking, gaining notoriety or general malevolence. Criminals however, seek financial gain and operate with varying levels of organisation and ability. As such, the initial understanding of the threat landscape is that of a hostile environment and the need for resources to be allocated to secure the organistion.
+Firstly, it is necessary to recognise that organisations of any size will attract the attention of two distinct groups, script kiddies and criminals. A script kiddy is a low skilled, inidvidual or unorganised group motivated by the perceived challenge of hacking, gaining notoriety or general malevolence. Criminals however, seek financial gain, are generally better resourced and operate with varying levels of organisation and ability. Those criminal groups that exhibit high levels of organisation are often refered to as Organised Criminal Groups(OCGs). Attempts are often made to track individual OCG activites and the tactics, techniques and procedures (TTPs) they use. It can be said that Script kiddies do have TTPs, and for the purposes of mapping threats it is useful to do so, but these TTPs are more generalised. 
 
-Plotting some well known Tactics, Techniques and Procedures of low level threat actors on the MITRE ATT&CK Navigator gives the first layer of threat which our organisation should be reviewing defences against. 
+The initial understanding of the threat landscape is therefore that of a hostile environment and the need for resources to be allocated to secure the organisation. Plotting Script Kiddies TTPs on the MITRE ATT&CK Navigator gives the lowest level of threat actors which our organisation should be reviewing defences against. 
 
-MITRE ATT&CK TTPs of Script Kiddies
+MITRE ATT&CK TTPs of Script Kiddies - low level threat
 ![theme logo](/assets/images/favicon/Script_kiddies_Sub.svg)
 
 
 
 ## [Understand the organisation](#understand-the-organisation)
 
-Try to identify risk factors that can be used as a basis for researching threat actors. Examples include countries of operation and customer base e.g. perhaps threat actors could wish to target customer firms and therefore our organistion as part of a supply chain attack. While risk factors should be plausible, it is not necessary to attribute likelihood at this stage.
-
+In order to begin identifying specific threat actors likely targetting our organisation, a good first step is to identify risk factors. Examples include countries of operation, industry and customer base e.g. perhaps threat actors could wish to target customer firms and therefore our organistion as part of a supply chain attack. While risk factors should be plausible, it is not necessary to attribute likelihood at this stage. 
 
 ## [Research historical exploitation of risk factors](#research-industry)
 
-Try to identify threat actors that have targetted the industry and how. At this stage, it is not a case of identifying specific actors with any certainty, instead you are beginning to form a starting point for refinement. As you research, try and identify the specific tactics used by those bad actors. Some example questions are below. 
+Try to identify threat actors that have targetted the factors identified and how. One way to do this is looking at past attacks. Unfortunately, it can be difficult to identify specifics regrding previous attacks. Often there is limited information or victims are reluctant to share. Research broadly and include industry publications. 
 
+Criminal
+MITRE ATT&CK TTPs of Organised Criminal Groups - Mid level threat
 
-#### Which companies in the same industry have been attacked, by whom and how?
+Use MITRE ATT&CK to see which major groups are known to target the factors identified for your organisation. For example, looking for TA targetting the legal sector in the UK and Spain 
+
+Try to identify specific actors known to target the sector.
+
+At this stage, it is not a case of certainty, but forming a starting point for refinement. As you research, try and identify the specific tactics used by those bad actors. 
+
 It can be difficult to identify specifics regrding previous attacks. Often there is limited infomration or victims are reluctant to share. Research broadly and include industry publications. Try to identify specific actors know to target the sector. It is likely that your research will lead you to MITRE ATT&CK...
 
 ## [Leverage a framework](#using-mitre)
