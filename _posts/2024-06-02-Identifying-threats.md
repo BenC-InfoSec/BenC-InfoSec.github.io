@@ -36,7 +36,7 @@ Next, try to identify threat actors that have targetted these factors and their 
 
 
 MITRE ATT&CK TTPs of Organised Criminal Groups - Mid level threat
-![theme logo](/assets/images/favicon/LAPSUS_G1004 Tech.svg)
+![theme logo](/assets/images/favicon/LAPSUS_G1004_Tech.svg)
 
 
 At this stage, it is likely that Advanced Persistent Threats (APTs) will be identified. These actors are state or state sponsored with high ability levels and resources. Their objectives are political or economic. 
