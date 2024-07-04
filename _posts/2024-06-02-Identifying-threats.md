@@ -10,9 +10,7 @@ A means for an organisation of any size to begin identifying relevant threats an
 ## Table of contents
 - [Table of contents](#table-of-contents)
 - [Understand the low level threat](#understand-the-low-level-threat)
-- [Understand the medium level threat](#understand-the-medium-level-threat)
-- [Leverage a framework](#using-mitre)
-- [Identify feeds](#identify-feeds)
+- [Understand the advanced level threat](#understand-the-advanced-level-threat)
 - [Review process](#review-process)
 
 
@@ -41,9 +39,11 @@ MITRE ATT&CK TTPs of Organised Criminal Groups - Mid level threat
 ![theme logo](/assets/images/favicon/LAPSUS_G1004_Tech.svg)
 
 
+## [Understand the advanced level threat](#understand-the-advanced-level-threat)
+
 We now, for most small organisations at least, have a general understanding of the TTPs potentially used by the majority of threat actors targetting it. Advanced Persistent Threats (APTs), actors who are state or state sponsored with high ability levels and resources, represent the most formidable, if not the most numerous threat an organsition could face. These groups are often politically or econmically motivated and deploying sufficient resources to mitigate their threat is likely to need significant resources.
 
-Utilising MITRE ATT&CK again and researching the threat factors which APT groups have historically targeted can help identify relevant groups. For example, Lazarus Group
+Utilising MITRE ATT&CK again and researching the threat factors which APT groups have historically targeted can help identify relevant groups. For example, Lazarus Group is a North Korean APT known to target virtual currency stores as part of its goal to undermine global cybersecurity and generate illicit revenue.
 
 MITRE ATT&CK TTPs of APT Lazarus - Advanced level threat
 ![theme logo](/assets/images/favicon/Lazarus_Group_G0032.svg)
