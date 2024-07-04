@@ -32,8 +32,7 @@ MITRE ATT&CK TTPs of Script Kiddies - low level threat
 
 In order to begin identifying specific threat actors likely targetting our organisation, a good first step is to identify risk factors. Examples include countries of operation, industry and customer base e.g. perhaps threat actors could wish to target a customer and therefore our organistion as part of a supply chain attack. While risk factors should be plausible, it is not necessary to attribute likelihood at this stage. 
 
-Next, try to identify threat actors that have targetted these factors and their specific TTPs. One way to do this is by looking at past attacks. Unfortunately, it can be difficult to identify specifics regrding previous attacks. Often there is limited information publicly released and victims are usually reluctant to share. Research broadly and include industry publications. There have however, been some high profile take downs of criminal groups which have shed light on their activites. One notable case is that of $LAPSUS and CISA have produced a detailed and very interesting review https://www.cisa.gov/sites/default/files/2023-08/CSRB_Lapsus%24_508c.pdf
-
+Next, try to identify threat actors that have targetted these factors and their specific TTPs. One way to do this is by looking at past attacks. Unfortunately, it can be difficult to identify specifics regrding previous attacks. Often there is limited information publicly released and victims are usually reluctant to share. Research broadly and include industry publications. There have however, been some high profile take downs of criminal groups which have shed light on their activites. One notable case is that of $LAPSUS and CISA have produced a detailed and very interesting [review](https://www.cisa.gov/sites/default/files/2023-08/CSRB_Lapsus%24_508c.pdf).
 
 MITRE ATT&CK TTPs of Organised Criminal Groups - Mid level threat
 ![theme logo](/assets/images/favicon/LAPSUS_G1004_Tech.svg)
