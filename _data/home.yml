@@ -32,7 +32,7 @@ project_entries:
     highlight: WIP
 
   - title: BTLO Investigations
-    url: BTLO-Investigations
+    url: btlo-investigations
     desc: Completed investigations
     
 
